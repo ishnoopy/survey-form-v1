@@ -4,7 +4,7 @@ const chai                  = require('chai');
 const expect                = chai.expect;
 const SurveyModel           = require('../models/survey.model');
 
-//test comment for jenkins push x7
+//test comment for jenkins push x10
 describe("Survey Model", function(){
 
     it('Should return success message when input captcha matches.', function(){
